@@ -162,6 +162,7 @@
   <ItemGroup>
     <None Include="BasicTest.vm" />
     <None Include="PointerTest.vm" />
+    <None Include="SimpleAdd.asm" />
     <None Include="SimpleAdd.vm" />
     <None Include="StackTest.vm" />
     <None Include="StaticTest.vm" />

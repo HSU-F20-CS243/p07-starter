@@ -85,5 +85,8 @@
     <None Include="StaticTest.vm">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="SimpleAdd.asm">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
