@@ -16,6 +16,8 @@ public:
     {
         ostringstream result{};
 
+        //AC: Oops, I didn't mean to check in the answer.  Nonetheless, you aren't allowed to 
+        //use this.  I will check this file and make sure that you write your OWN VERSION.
         PopCommand first{ "gp2" };
         PopCommand second{ "gp3" };
         PushCommand store{ "gp2" };

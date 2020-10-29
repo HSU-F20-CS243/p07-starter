@@ -88,5 +88,8 @@
     <None Include="SimpleAdd.asm">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="OrTest.vm">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
