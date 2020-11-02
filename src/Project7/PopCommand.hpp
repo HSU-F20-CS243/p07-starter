@@ -2,6 +2,7 @@
 #include <sstream>
 #include <string>
 #include <vector>
+#include <exception>
 #include "Command.hpp"
 using namespace std;
 
@@ -50,7 +51,7 @@ public:
 		case Segment::Pointer:
 			break;
 		case Segment::GP1:
-			throw exception{ "Cannot pop into GP1" };
+			throw "Cannot pop into GP1";
 			break;
 		case Segment::GP2:
 
